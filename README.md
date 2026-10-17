@@ -2,6 +2,6 @@
 
 Versión del prototipo de ECOMA para jugar en el navegador, para testeadores. Fase actual: **prototipo (pre-alfa)**. RAMSYS Game Studio.
 
-Versión actual: Pre-alfa 0.2.141
+Versión actual: Pre-alfa 0.2.142
 
 (El nombre del repositorio, «ecoma-beta», se mantiene para no romper los enlaces.)
